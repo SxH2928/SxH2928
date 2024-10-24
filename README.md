@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SxH2928
 - 👀 I’m interested in ...Ai
 - 🌱 I’m currently learning ... python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... google colab
+- 📫 How to reach me ... i'm a free soul [can't meet :)]
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I'm still in school 😑
 
