@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Ai
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ... google colab
-- 📫 How to reach me ... i'm a free soul [can't meet :)]
+- 📫 How to reach me ... !?
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I'm still in school 😑
 
