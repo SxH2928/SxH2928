@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SxH2928
+- 👋 Hi, I’m @Shantanu
 - 👀 I’m interested in ...Ai
 - 🌱 I’m currently learning ... python 
 - 💞️ I’m looking to collaborate on ... google colab
