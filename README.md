@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shantanu
 - 👀 I’m interested in ...Ai
-- 🌱 I’m currently learning ... python 
+- 🌱 I’m currently learning ... C
 - 📫 How to reach me ... !?
 - 😄 Pronouns: ...he/him
 
